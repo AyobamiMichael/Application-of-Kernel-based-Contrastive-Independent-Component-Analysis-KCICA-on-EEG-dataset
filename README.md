@@ -55,8 +55,8 @@ pip install numpy pandas matplotlib torch
 ## Usage
 ### Clone the Repository:
 ```bash
-git clone https://github.com/your-username/kcica-eeg.git
-cd kcica-eeg
+git clone https://github.com/AyobamiMichael/Application-of-Kernel-based-Contrastive-Independent-Component-Analysis-KCICA-on-EEG-dataset.git
+Application-of-Kernel-based-Contrastive-Independent-Component-Analysis-KCICA-on-EEG-dataset
 ```
 
 ### Install Dependencies:
@@ -105,7 +105,6 @@ Special thanks to the PyTorch community for providing excellent tools and resour
 
 ## Contact
 For questions or feedback, please open an issue on GitHub or contact the maintainer:
-
-**Your Name**  
-📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-🔗 GitHub: [your-username](https://github.com/your-username)
+ 
+ Ayobami Opefeyijimi
+📧 Email: [ayobamiwealth@gmail.com](mailto:ayobamiwealth@gmail.com)  
